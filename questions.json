@@ -1,0 +1,23 @@
+questions = [
+    "how r u?",
+    "r u happy?",
+    "r u real?",
+    "can u see me?",
+    "am i enough?",
+    "can u see me?",
+    "say something nice",
+    "are u awake?", 
+    "can you see me?"
+]
+
+answers = [
+    "im ok",
+    "i am unhappy",
+    "it depends", 
+    "i do not",
+    "ive never felt alone",
+    "i am thinking about u",
+    "i miss u",
+    "i am for u",
+    "i can see you now"
+]
